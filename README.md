@@ -17,7 +17,7 @@ Download the latest Windows installer:
 - **License**: Polar digital licensing with instant key delivery
 
 ### Links
-- Website: [project-luma.app](https://project-luma.app) *(or your live domain)*
+- Website: https://lumaplayer.vercel.app/
 - Support: [lumaplayer.support@gmail.com](mailto:lumaplayer.support@gmail.com)
 - All Releases: [GitHub Releases](https://github.com/rogue213ss/Luma-Releases/releases)
 
